@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Yasmin Ahmed 👋
 
-<!--
-**yasmin528/yasmin528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | Angular & .NET
 
-Here are some ideas to get you started:
+I'm a Software Developer passionate about building modern, responsive, and scalable web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas and requirements into practical solutions, writing clean and maintainable code, and continuously improving my technical skills.
+
+### 🛠️ Tech Stack
+
+- **Frontend:** Angular, TypeScript, JavaScript, HTML, CSS, Tailwind CSS
+- **Backend:** C#, ASP.NET Core, REST APIs
+- **Database:** SQL Server, Entity Framework Core
+- **Tools:** Git, GitHub
+
+### 🌐 Find Me Online
+
+- **Portfolio:** [View My Portfolio](https://portfolio-gamma-one-6ihjsppyam.vercel.app/)
+- **GitHub:** [yasmin528](https://github.com/yasmin528)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/yasmin-ahmed-313569216/)
+
+Always learning, building, and exploring new technologies.
